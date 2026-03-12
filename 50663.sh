@@ -7,9 +7,9 @@ set -e
 TG_TOKEN="7756669471:AAFstxnzCweHItNptwOf7UU-p6xj3pwnAI8"
 TG_CHAT_ID="1792396794"
 
-TROJAN_PORT=52321
+TROJAN_PORT=50663
 TROJAN_PASSWORD="vds651vvafddvd977vdvd"
-SNI_DOMAIN="csacastcha-prod.s3.amazonaws.com"
+SNI_DOMAIN="www.amazon.jobs"
 DOH_URL="https://223.5.5.5/dns-query"
 
 # 锁定稳定版本，避免 latest 镜像更新导致配置格式变化
