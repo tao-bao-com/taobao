@@ -7,10 +7,10 @@ set -e
 TG_TOKEN="7756669471:AAFstxnzCweHItNptwOf7UU-p6xj3pwnAI8"
 TG_CHAT_ID="1792396794"
 
-TROJAN_PORT=50114
+TROJAN_PORT=50336
 TROJAN_PASSWORD="vds651vvafddvd977vdvd"
-SNI_DOMAIN="www.cisco.com"
-DOH_URL="https://223.5.5.5/dns-query"
+SNI_DOMAIN="manga.bilibili.com"
+DOH_URL="https://1.1.1.2/dns-query"
 
 # 锁定稳定版本，避免 latest 镜像更新导致配置格式变化
 # 如果此版本不可用，可改为 v1.9.x 或 v1.8.x
