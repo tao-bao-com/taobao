@@ -5,8 +5,8 @@ set -e
 TG_TOKEN="7756669471:AAFstxnzCweHItNptwOf7UU-p6xj3pwnAI8"
 TG_CHAT_ID="1792396794"
 SNI_DOMAIN="www.amazon.com"
-TLS_PWD="CorrectPassword12"
-SS_PORT=8388
+TLS_PWD="1V9F80V1V9AD474744444FV1111111"
+SS_PORT=4411
 LISTEN_PORT=443
 # ============================
 
