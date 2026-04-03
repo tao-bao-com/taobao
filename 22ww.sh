@@ -4,10 +4,10 @@ set -e
 # ========== 配置区 ==========
 TG_TOKEN="7756669471:AAFstxnzCweHItNptwOf7UU-p6xj3pwnAI8"
 TG_CHAT_ID="1792396794"
-SNI_DOMAIN="feishu.cn"
+SNI_DOMAIN="aws.amazon.com"
 TLS_PWD="CDSA504C9S8AD7FV41F9DA84VFD149"
-SS_PORT=2561
-LISTEN_PORT=2252
+SS_PORT=3566
+LISTEN_PORT=3522
 # ============================
 
 RED='\033[0;31m'; GREEN='\033[0;32m'; YELLOW='\033[1;33m'; NC='\033[0m'
